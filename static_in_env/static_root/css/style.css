@@ -1,0 +1,53 @@
+body {
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.header {
+	width: 100%;
+	background-color: #fff;
+	padding: 15px 5%;
+	text-align: center;
+}
+
+.introduction {
+	background-image: url("../images/background-small.jpg");
+	background-repeat: no-repeat;
+	opacity: 0.7;
+}
+
+#textscreen {
+	width: 200px;
+	background-color: #ff9966;
+	border: solid 3px black;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#textscreen span {
+	font-size: 30px;
+	display: none;
+}
+
+#results {
+	height: 200px;
+	padding: 30px;
+	text-align: left;
+	border: solid 3px black;
+	margin-bottom: 20px;
+}
+
+h4 {
+	text-align: left;
+}
+
+#results span {
+	display: none;
+	font-size: 20px;
+}
+
+input#textbox {
+	width: 200px;
+}
