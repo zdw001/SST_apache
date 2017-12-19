@@ -15,3 +15,4 @@ pip install -r requirements.txt
 cd src 
 
 python manage.py runserver
+# StockTypeRacer
