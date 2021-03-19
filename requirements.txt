@@ -10,7 +10,7 @@ django-autoslug==1.9.3
 django-extensions==1.9.8
 django-imagekit==4.0.2
 django-registration-redux==1.9
-djangorestframework==3.7.3
+djangorestframework==3.11.2
 enum34==1.1.6
 gunicorn==19.7.1
 idna==2.6
